@@ -1,3 +1,3 @@
-# Serverless REST API
+# Serverless Boilerplate
 
-Work in progress – This is a ready-to-deploy Serverless REST API.g
+Work in progress – This is a ready-to-deploy Serverless Application Boilerplate.
